@@ -1,0 +1,5 @@
+rce/ rcep  = class export based component.
+
+Note : we can't change props directly but yeah, can change state by passing the props.
+
+cache clear = crl + shift + R
