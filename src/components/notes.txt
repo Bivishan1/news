@@ -1,5 +1,8 @@
-rce/ rcep  = class export based component.
+rce/ rcep  = react class extends / class export based component.
 
 Note : we can't change props directly but yeah, can change state by passing the props.
 
 cache clear = crl + shift + R
+
+
+if we want to run something after render() method, we need to use componentDidMount() to set state, variable or method, to make sure our required output dom is availble.
